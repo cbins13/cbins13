@@ -9,6 +9,7 @@ My web development journey started during 2022, learning around JavaScript and q
 * 🌍  I'm based in Baguio City, Philippines
 * ✉️  You can contact me at [christianbinayan3@gmail.com](mailto:christianbinayan3@gmail.com)
 * 👨‍💻  My portfolio website can be found here: [Click me!](https://cbins13.github.io/cbins-portfolio/)
+* ![](https://komarev.com/ghpvc/?username=cbins13&color=blue&style=for-the-badge)
 
 
 <p align="left">
@@ -23,3 +24,6 @@ My web development journey started during 2022, learning around JavaScript and q
 ### Badges
 
 <a href="https://github.com/cbins13" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbins13&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
