@@ -3,9 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Junior Full Stack Web Developer
 -------------------------------
-
-My web development journey started during 2022, learning around JavaScript and quickly turning to ReactJS and NodeJS. I had some pauses in my learning process as I worked in other fields as an IT Support and Virtual Assistant. Currently learning many of the libraries React has to offer, such as ShadCN, and Material UI
-
 * 🌍  I'm based in Baguio City, Philippines
 * ✉️  You can contact me at [christianbinayan3@gmail.com](mailto:christianbinayan3@gmail.com)
 * 👨‍💻  My portfolio website can be found here: [Click me!](https://cbins13.github.io/cbins-portfolio/)
