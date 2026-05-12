@@ -14,6 +14,5 @@
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=cbins13&icon=1&color=1)](https://visitcount.itsvg.in)
-
+* ![](https://komarev.com/ghpvc/?username=cbins13&color=blue&plastic)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
